@@ -11,7 +11,7 @@ In the realm of [Natural Language Processing (NLP)](https://en.wikipedia.org/wik
 LocationTagger addresses this challenge by specifically focusing on extracting and tagging place names from text data.
 
 ### Approach  
-![Approach](https://github.com/AritraDey-Dev/Task-3-locationtagger/blob/master/locationtagger/data/diagram.jpg?raw=true)
+![Approach](https://github.com/AritraDey-Dev/Task-3-locationtagger/blob/main/locationtagger/data/diagram.jpg?raw=true)
 
 ---
 
