@@ -26,6 +26,3 @@ Each task directory contains the respective implementation files, scripts, and d
 - **Project Name:** AI-Powered Behavioral Analysis for Suicide Prevention, Substance Use, and Mental Health Crisis Detection
 
 For any queries, please contact [aritradey.nitt@gmail.com].
-
-
-This Markdown format will render correctly on platforms like GitHub or any other markdown renderer.
