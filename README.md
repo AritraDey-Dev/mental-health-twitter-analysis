@@ -11,12 +11,12 @@ The goal of this project is to analyze social media data to detect mental health
 
 ## Directory Structure
 
-
+```
 Mental-Health-Twitter-Analysis/
 │── Task-1- Social-Media-Data-Extraction/   # Data collection from social media platforms  
 │── Task-2-Twitter-Sentiment-Analysis/      # Sentiment analysis on Twitter data  
 │── Task-3-locationtagger/                  # Geospatial tagging of crisis-related tweets  
-
+```
 
 Each task directory contains the respective implementation files, scripts, and documentation.
 
